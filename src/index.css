@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+@theme {
+    --font-popins: "Poppins", "serif"; 
+  }
+
+  .slick-active .active{
+    @apply bg-purple-600
+    rounded-full
+  }
