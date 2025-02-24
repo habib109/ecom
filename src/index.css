@@ -9,3 +9,11 @@
     @apply bg-purple-600
     rounded-full
   }
+
+  .megamenu{
+    box-shadow: 0px 5px 15px 0px rgba(105,105,105,0.76);
+  }
+
+  .slick-slide{
+    @apply flex gap-3
+  }
