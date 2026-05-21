@@ -47,7 +47,7 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="bg-white">
+    <nav className="bg-white px-0.5">
       <Container className="flex justify-between items-center relative">
         <div className="items-center gap-14 flex">
           <Image className="py-2" src={logo} alt="Logo" />
