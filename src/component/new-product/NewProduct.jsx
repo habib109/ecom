@@ -4,7 +4,7 @@ import Product from "../../layout/Product";
 
 const NewProduct = () => {
   return (
-    <section className="py-16 bg-[#edede9]">
+    <section className="py-14 bg-[#edede9]">
       <Container>
         <div className="flex items-center justify-between mb-8">
           <h2 className="text-3xl font-bold">
